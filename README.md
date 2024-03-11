@@ -23,9 +23,6 @@ To run the Color Flipper App locally:
 3. Open the `index.html` file in a web browser.
 
 ---
-
-website: https://color-flipper-js-2024.netlify.app/
----
 # 2. Palindrome checker App
 
 ## Introduction
@@ -119,7 +116,7 @@ To run the Stopwatch App locally:
 3. Open the `index.html` file in a web browser.
 ---
 
-## Contributing
+# Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
@@ -130,6 +127,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
-## License
+# License
 
 This project is licensed under the [MIT License](LICENSE).
