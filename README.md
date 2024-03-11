@@ -10,11 +10,12 @@ A simple web application that allows users to change the background color of the
 
 To use the Palindrome Checker:
 
-1. Open the web[https://color-flipper-js-2024.netlify.app/]application.
+1. Open the web[https://color-flipper-js-2024.netlify.app/]
+ application.
 2. Click on any button then te page change color.
 
-website: https://color-flipper-js-2024.netlify.app/
-
+<!-- website: https://color-flipper-js-2024.netlify.app/
+ -->
 ### Installation
 
 To run the Color Flipper App locally:
