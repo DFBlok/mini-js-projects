@@ -13,6 +13,7 @@ To use the Palindrome Checker:
 1. Open the web[https://color-flipper-js-2024.netlify.app/]application.
 2. Click on any button then te page change color.
 
+website: https://color-flipper-js-2024.netlify.app/
 
 ### Installation
 
