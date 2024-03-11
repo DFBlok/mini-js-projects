@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #85ddcb;
+}
+
+.wrapper {
+    width: 80%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.wrapper h1 {
+    text-align: center;
+    text-decoration: underline;
+    margin: 90px 0;
+    color: #e27d60;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section button {
+    text-align: center;
+    padding: 20px 20px;
+    background-color: #c38d9e;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 90px 0;
+
+}
+
+#quote {
+    text-align: center;
+    background-color: aqua;
+    margin: 20px 0;
+    padding: 20px 0;
+    font-style: italic;
+    font-size: larger;
+}
