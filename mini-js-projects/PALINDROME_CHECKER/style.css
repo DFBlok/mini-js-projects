@@ -9,3 +9,22 @@
     max-width: 1200px;
     margin: 0 auto;
 }
+
+input, button {
+    font-size: x-large;
+}
+
+.section h1{
+    text-align: center;
+    text-decoration: underline;
+    margin:20px 10px;
+    padding: 20px;
+}
+
+.section-text {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 90px 90px;
+    background-color: grey;
+}
