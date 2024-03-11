@@ -20,6 +20,10 @@
     background-color: purple;
 }
 
+body {
+    background-color: #88bdbc;
+}
+
 .wrapper {
     display: flex;
     justify-content: center;
@@ -28,7 +32,9 @@
 
 .wrapper h1 {
     text-decoration: underline;
-    margin-bottom: 30px;
+    margin: 30px 0;
+    color: #6e6658;
+    text-decoration: none;
 }
 
 .button {
