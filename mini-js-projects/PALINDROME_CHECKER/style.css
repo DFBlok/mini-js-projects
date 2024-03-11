@@ -21,10 +21,25 @@ input, button {
     padding: 20px;
 }
 
+.section {
+    background-color: grey;
+    margin: 50px 0;
+    padding: 20px 0;
+    text-align: center;
+    
+}
+
 .section-text {
     display: flex;
     justify-content: center;
     gap: 10px;
     padding: 90px 90px;
-    background-color: grey;
+}
+
+#render {
+    color: red;
+    font-weight: bold;
+    background-color: bisque;
+    margin: 0 10px;
+    padding: 10px 10px;
 }
