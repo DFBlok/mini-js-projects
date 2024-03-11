@@ -12,9 +12,11 @@ function check() {
   if (value === reverse) {
 /*     alert("Congrats your word is PALINDROME"); */
     document.getElementById("render").textContent = "Congrats your word is PALINDROME";
+    document.getElementById("render").style= "color:green";
   } else {
 /*     alert("Word is NOT a PALINDROME"); */
     document.getElementById("render").textContent = "Word is NOT a PALINDROME";
+    document.getElementById("render").style= "color:red";
   }
 
   input.value = "";

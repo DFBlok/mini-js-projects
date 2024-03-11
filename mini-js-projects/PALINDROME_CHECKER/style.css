@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #2f4454;
+}
+
 .wrapper {
     width: 90%;
     max-width: 1200px;
@@ -11,18 +15,23 @@
 }
 
 input, button {
-    font-size: x-large;
+    padding: 5px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
 }
 
 .section h1{
     text-align: center;
-    text-decoration: underline;
+    text-decoration: none;
     margin:20px 10px;
     padding: 20px;
+    color: #da7b93;
 }
 
 .section {
-    background-color: grey;
+    background-color: #2e151b;
     margin: 50px 0;
     padding: 20px 0;
     text-align: center;
@@ -36,10 +45,18 @@ input, button {
     padding: 90px 90px;
 }
 
+.section-text input {
+    text-align: center;
+}
+
+.section-text button{
+    padding: 10px 10px;
+}
+
 #render {
-    color: red;
-    font-weight: bold;
-    background-color: bisque;
+    /* font-weight: bold; */
+    font-size: 18px;
     margin: 0 10px;
     padding: 10px 10px;
+    text-align: center;
 }
